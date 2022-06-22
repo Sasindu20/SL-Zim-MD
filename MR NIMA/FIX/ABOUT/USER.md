@@ -28,11 +28,11 @@
   
 #### ❸  ඔයා Qr code එක scan කරලා  whatsapp  එකට ඔයාගේ නම්බර් එකෙන් එන session.json file එක ඔයා fork කරගත්තු එකට uplode  කරන්න 
 #### ❹ ඊට පස්සේ fork කරගත්ත ඔයාගේ github link එක අරන්
-               https://heroku.com/deploy?template=
+               https://github.com/Sasindu20/SL-Zim-MD=
 
 #### ⬆️ මේ ලින්ක් එකට ඔයාගේ github ලින්ක් එක දාන්න 
 
-#### ✅ දාලා ඒ ලින්ක් එකෙන් deploy  කරන්න
+#### ✅ දාලා ඒ ලින්ක් එකෙන් deploy කරන්න
 #  
 #  
 #
